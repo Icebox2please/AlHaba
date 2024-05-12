@@ -1,0 +1,10 @@
+GCD of 6111 and 5542 is 1. Execution time: 0.0 seconds.
+GCD of 8339 and 5792 is 1. Execution time: 0.0 seconds.
+GCD of 8687 and 6463 is 1. Execution time: 0.0 seconds.
+GCD of 6649 and 5442 is 1. Execution time: 0.0 seconds.
+GCD of 7952 and 5132 is 4. Execution time: 0.0 seconds.
+GCD of 8254 and 7342 is 2. Execution time: 0.0 seconds.
+GCD of 6583 and 6465 is 1. Execution time: 0.0 seconds.
+GCD of 8213 and 7751 is 1. Execution time: 0.0 seconds.
+GCD of 8875 and 6327 is 1. Execution time: 0.0 seconds.
+GCD of 7050 and 4850 is 50. Execution time: 0.0 seconds.
